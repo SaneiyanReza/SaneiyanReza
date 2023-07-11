@@ -5,7 +5,7 @@
 
 - 📫 How to reach me [Saneiyan.rzw@gmail.com](mailto:Saneiyan.rzw@gmail.com)
 
-- 📄 Know about my experiences [https://saneiyanreza.github.io/](https://saneiyanreza.github.io/)
+- 📄 Know about my experiences [Saneiyan_Reza](https://saneiyanreza.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
