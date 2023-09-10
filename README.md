@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Reza Saneiyan</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dotNet+Developer)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dotNet+Developer)](https://git.io/typing-svg)
+-
 - 💬 Ask me about **c# , .net core , .net framework , sql**
 
 - 📫 How to reach me [Saneiyan.rzw@gmail.com](mailto:Saneiyan.rzw@gmail.com)
