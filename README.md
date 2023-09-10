@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center;">
+<h1 style="display: flex; justify-content: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+🙋‍♂️,+I'm+Reza+Saneiyan;dotNet+Developer" alt="Typing SVG">
   </a>
-</div>
+</h1>
 
 - 💬 Ask me about **c# , .net core , .net framework , sql , no sql**
 - 📫 How to reach me [Saneiyan.rzw@gmail.com](mailto:Saneiyan.rzw@gmail.com)
