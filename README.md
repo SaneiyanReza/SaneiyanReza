@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=dotNet+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+🙋‍♂️,+I'm+Reza+Saneiyan;dotNet+Developer" alt="Typing SVG">
   </a>
 </p>
 
