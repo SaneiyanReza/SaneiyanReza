@@ -1,5 +1,3 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Reza Saneiyan</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+🙋‍♂️,+I'm+Reza+Saneiyan;dotNet+Developer" alt="Typing SVG">
