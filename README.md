@@ -1,13 +1,12 @@
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
-  
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙋‍♂️+Reza+Saneiyan;Backend+.Net+Developer;&center=true&size=30" alt="Typing SVG" style="border-radius: 10px;"/>
-  </a>
+<p align="center">
 
-  <!-- Descriptive Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Reza+Saneiyan;Backend+%F0%9F%92%BB+.NET+Developer;Clean+Code+%2B+System+Design+Lover" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <em>Passionate about clean code & modern software architecture</em>
-</div>
+</p>
 
 
 ---
